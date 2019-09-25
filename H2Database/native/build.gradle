@@ -1,0 +1,9 @@
+dependencies {
+  implementation group: 'com.h2database', name: 'h2', version: '1.4.199'
+  testImplementation('org.junit.jupiter:junit-jupiter:5.5.1')
+}
+
+//这里一定要添加
+test {
+  useJUnitPlatform()
+}

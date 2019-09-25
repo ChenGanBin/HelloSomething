@@ -1,0 +1,4 @@
+rootProject.name = 'H2Database'
+include 'native'
+include 'spring'
+
