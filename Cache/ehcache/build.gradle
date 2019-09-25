@@ -1,0 +1,5 @@
+dependencies {
+    compile 'org.ehcache:ehcache:3.6.1'
+    compile 'javax.cache:cache-api:1.1.0'
+    compile 'ch.qos.logback:logback-classic:1.2.3'
+}

@@ -1,0 +1,4 @@
+rootProject.name = 'HelloCache'
+
+include 'localcache'
+include 'ehcache'

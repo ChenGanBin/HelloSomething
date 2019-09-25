@@ -1,0 +1,8 @@
+rootProject.name = 'HelloSecurity'
+
+include 'minimal'
+include 'rest'
+include 'dynamic'
+include 'user-detail-service'
+include 'oauth2-minimal'
+include 'oauth2-jwt'

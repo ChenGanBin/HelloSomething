@@ -1,0 +1,3 @@
+dependencies {
+  compile 'org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:2.1.1.RELEASE'
+}

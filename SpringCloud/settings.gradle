@@ -1,0 +1,9 @@
+rootProject.name = 'HelloSpringCloud'
+
+include 'eureka-server'
+include 'eureka-client'
+include 'ribbon'
+include 'feign'
+include 'zuul'
+include 'config-server'
+include 'config-client'
